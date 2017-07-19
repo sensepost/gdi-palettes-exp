@@ -12,6 +12,7 @@ We will provide all the detailed steps taken to develop a full privilege escalat
 5A1F_Defcon_25_Demystifying_Kernel_Exploitation_By_Abusing_GDI_Objects_slides_final.pdf
 
 Windows 8.1 x64 MS16-098 EoP exploit.
+
 Windows 7 SP1 x86 MS17-017 Eop exploit by abusing GDI Palette Objects (New technique).
 
 # License
