@@ -1,6 +1,7 @@
 # gdi-palettes-exp
 DC25 5A1F - Demystifying Windows Kernel Exploitation by Abusing GDI Objects
 https://www.defcon.org/html/defcon-25/dc-25-speakers.html#El-Sherei
+https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/5A1F/
 
 # Content:
 Windows kernel exploitation is a difficult field to get into. Learning the field well enough to write your own exploits require full walkthroughs and few of those exist. This talk will do that, release two exploits and a new GDI object abuse technique.
